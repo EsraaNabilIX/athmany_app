@@ -8,3 +8,4 @@ class SittingView extends StatelessWidget {
     return Container();
   }
 }
+
