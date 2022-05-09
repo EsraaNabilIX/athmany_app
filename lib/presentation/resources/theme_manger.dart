@@ -1,6 +1,6 @@
-import 'package:athmany_app/presentation/resources/stayle_manger.dart';
-import 'package:athmany_app/presentation/resources/values_manger.dart';
 import 'package:flutter/material.dart';
+import 'package:my_app/presentation/resources/style_manger.dart';
+import 'package:my_app/presentation/resources/values_manger.dart';
 
 import 'color_manger.dart';
 import 'font_manger.dart';

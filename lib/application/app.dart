@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_app/presentation/insights/insights_view.dart';
 
 class MyApp extends StatefulWidget {
   MyApp._internal();
@@ -14,6 +15,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
+      home: InsightsView(),
     );
   }
 }
